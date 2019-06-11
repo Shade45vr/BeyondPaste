@@ -47,7 +47,7 @@ class Page Extends Base
 				</div>
 
 				<div class=\"footer\">
-				<center>Powered by <a href=\"https://github.com/RaJiska/BeyondPaste\">BeyondPaste</a> <img src=\"resources/external/octicons/img/octoface.svg\" width=12 height=24 onerror=\"this.src='lib/octicons/eye.png'\">. Copyright Doriann \"Ra'Jiska\" Corlouër ©</center>
+				<center>Copyright UMAD.CLOUD ©</center>
 				</div>
 
 				<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js\"></script>
