@@ -19,5 +19,5 @@ The footer can be entirely modified, but keep in mind authors should always be c
 ### **Paste View**
 ![alt text](https://i.gyazo.com/abedef0e0aca81f07894fd0e7802fec0.png)
 
-# Credits
-Design inspired by **Popoliito's** securePaste project.
+# Demo
+http://umad.cloud/
